@@ -1,0 +1,59 @@
+ys ps3
+Copyright (c) 2026 ysh-rael
+
+======================================================================
+LICENÇA (MIT)
+======================================================================
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+======================================================================
+TERMO DE ACEITE E ISENÇÃO DE RESPONSABILIDADE
+======================================================================
+
+Ao instalar ou usar o ys ps3 ("Software"), você declara que leu e concorda
+com os termos abaixo:
+
+1. O Software é fornecido "no estado em que se encontra", sem garantia de
+   qualquer tipo, expressa ou implícita, incluindo adequação a uma finalidade
+   específica, funcionamento ininterrupto ou ausência de erros.
+
+2. O autor, ysh-rael, não se responsabiliza por danos diretos ou indiretos,
+   perda de dados, mau funcionamento ou danos a dispositivos, controles,
+   jogos, contas ou ao sistema operacional decorrentes da instalação ou do
+   uso do Software.
+
+3. O Software cria um controle Xbox 360 virtual por meio do driver ViGEmBus,
+   que é de terceiros e possui licença e responsabilidade próprias. A
+   instalação do driver é opcional. O autor do ys ps3 não é responsável pelo
+   driver nem por seu funcionamento.
+
+4. Alguns jogos, serviços online e sistemas antitrapaça podem tratar
+   controles virtuais ou ferramentas de remapeamento de forma restritiva. O
+   uso em tais ambientes é de sua exclusiva responsabilidade, inclusive
+   quanto a eventuais sanções, bloqueios ou banimentos.
+
+5. O Software não é afiliado, patrocinado ou endossado pela Microsoft, pela
+   Sony ou por qualquer fabricante de controles. "Xbox" e "PlayStation" são
+   marcas de seus respectivos titulares.
+
+6. Você é o único responsável por avaliar a adequação do Software ao seu uso
+   e por manter cópias de segurança de seus dados.
+
+Se você não concorda com estes termos, não instale nem utilize o Software.

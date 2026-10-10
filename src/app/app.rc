@@ -1,0 +1,31 @@
+#include "app/app_resources.h"
+
+#include <winres.h>
+
+IDI_APPICON ICON "../../resources/ysps3_64.ico"
+
+VS_VERSION_INFO VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+FILEOS VOS_NT_WINDOWS32
+FILETYPE VFT_APP
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "041604B0"
+        BEGIN
+            VALUE "CompanyName", "ysh-rael"
+            VALUE "FileDescription", "ys ps3"
+            VALUE "FileVersion", "1.0.0"
+            VALUE "InternalName", "ys-ps3"
+            VALUE "OriginalFilename", "ys-ps3.exe"
+            VALUE "ProductName", "ys ps3"
+            VALUE "ProductVersion", "1.0.0"
+            VALUE "LegalCopyright", "Copyright (c) 2026 ysh-rael"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x416, 1200
+    END
+END
