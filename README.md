@@ -1,5 +1,4 @@
-<!-- Adiciona logo do projeto -->
-![Logo do PS3 Translator](resources/ysps3_128.png)
+<img width="1583" height="633" alt="tumb-ys-ps3" src="https://github.com/user-attachments/assets/b6277eed-f781-41f8-aab8-a5626af5b5e9" />
 
 # PS3 Translator
 
